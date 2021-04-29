@@ -1,5 +1,5 @@
 {
-  "name": "neuralnetwork",
+  "name": "@jeroeno_boy/neuralnetwork",
   "version": "1.0.0",
   "description": "Basic Neural network for machine learning",
   "main": "dist/index.js",
@@ -7,6 +7,14 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "author": "Jeroeno_Boy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeroenoBoy/NeuralNetwork.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeroenoBoy/NeuralNetwork/issues"
+  },
+  "homepage": "https://github.com/JeroenoBoy/NeuralNetwork#readme"
 }
